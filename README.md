@@ -15,7 +15,7 @@ Backend Shopper is what powers the front-end of a ecommerce app. It's built usin
 
 - [Project repo](https://github.com/shaynefw/Backend-Shopper)
 - [Project deployed link](https://shaynefw.github.io/Backend-Shopper/)
-- [Project Video Demo]()
+- [Project Video Demo](https://drive.google.com/file/d/1raG3xXe_mYRqRKsheDCphAYvvI8qSdUZ/view?usp=sharing)
 
 1. Install Node.js: Before you can install and run the app, you need to have Node.js installed on your computer. You can download the latest version from the official Node.js website: https://nodejs.org/en/download/
 
@@ -57,7 +57,7 @@ This will start the server and make the app available in your web browser. You c
 
 7. Repeat for other routes: You can repeat these steps to access other routes in the app. The available routes are defined in the routes/index.js file, and include /api/categories, /api/products, and /api/tags.
 
-![screenShot]()
+![screenShot](./assets/images/demo.gif)
 
 ## Credits
 
@@ -89,9 +89,7 @@ SOFTWARE.
 
 ## Badges
 
-![HTML](https://img.shields.io/badge/HTML-NUMBER%25-orange)
-![CSS](https://img.shields.io/badge/CSS-NUMBER%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-NUMBER%25-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)
 
 ## Features
 
